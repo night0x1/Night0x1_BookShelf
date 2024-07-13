@@ -1,12 +1,35 @@
-# Night0x1_BookShelf
+# Night0x1_BookShelf Database Project
 
-I am undertaking a database project to catalog my personal book collection, inspired by the insights gained from Anthony DeBarros' "Practical SQL". The database will systematically organize information about each book, including genre, author, title, and publication date. As I advance through the project, I intend to incorporate newly acquired knowledge from the book into the database design and management.
+# Objective
+I am undertaking a comprehensive database project named Night0x1_BookShelf to catalog my
+personal book collection. This project is inspired by Anthony DeBarros "Practical SQL" 
+and aims to systematically organize and manage detailed information about each book in my collection.
 
-The initial phase involves creating a uniquely named database. It will feature a table dedicated to genres, encompassing essential details such as book titles, authors, and publication dates. Subsequently, I plan to expand the database's capabilities based on the progressive learning journey facilitated by "Practical SQL".
+$ Scope:
+The database will initially focus on organizng essential details such as genre, author, title, and
+publication date for each book. As I progress though the project, I will incorporate additional
+functionalities and features based on the insights and knowledge gained from "Practical SQL".
 
-This project not only serves to enhance my practical SQL skills but also aims to provide an efficient system for managing and exploring my personal literary collection.
+# Methodology:
 
-This version maintains a professional tone while clearly outlining the purpose, scope, and methodology of your database project. It emphasizes your learning process and the practical application of SQL concepts, which adds depth and relevance to your endeavor.
+  1. Database Creation:
+       -  Create a uniquely named database to house the book collection
+       -  Establish a foundational table dedicated to genres, which will include essential
+          book details such as titles, authors, and publication dates.     
+  2.  Database Expanasion:
+      -  As I advance through the learning material, I will continously enhance
+         the database structure and capabilites
+      -  Implement advanced SQL techniques and best practices to optimize database
+         performance and functionality.
+  3.  Practical Application:
+      -  Apply theoretical knowledge from "Practical SQL" to real-world scenarios within the
+         database project.
+      -  Experiment with various SQL queries, indexing strategies, and normalization techniques to
+         ensure data integrity and efficiency.
 
-
-
+# Goals:
+      -  Enhance my practical SQL skills through hands-on experience
+      -  Develop a robust and efficent system fro managing and exploring my personal literary
+         collection.
+      -  Create a scalable and adaptable database structure that can accomodate future expansions
+         and improvements.
