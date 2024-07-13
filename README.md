@@ -33,3 +33,7 @@ functionalities and features based on the insights and knowledge gained from "Pr
          collection.
       -  Create a scalable and adaptable database structure that can accomodate future expansions
          and improvements.
+
+This project serves as both a practical learning experience and a valuable tool for organizing 
+my book collection. By integrating newly acquired SQL knowledge into the database design and management,
+I aim to create a functional and well-optimized system.
